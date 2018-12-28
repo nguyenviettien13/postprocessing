@@ -1,0 +1,1371 @@
+{
+  "090": [
+    "0 9 0"
+  ],
+  "091": [
+    "0 9 1"
+  ],
+  "092": [
+    "0 9 2"
+  ],
+  "093": [
+    "0 9 3"
+  ],
+  "094": [
+    "0 9 4"
+  ],
+  "095": [
+    "0 9 5"
+  ],
+  "096": [
+    "0 9 6"
+  ],
+  "097": [
+    "0 9 7"
+  ],
+  "098": [
+    "0 9 8"
+  ],
+  "099": [
+    "0 9 9"
+  ],
+  "1a": [
+    "1 A"
+  ],
+  "2d": [
+    "2 D"
+  ],
+  "2k": [
+    "2 K"
+  ],
+  "3.0": [
+    "3 chấm 0"
+  ],
+  "30-4": [
+    "30 tháng 4"
+  ],
+  "3d": [
+    "3 D"
+  ],
+  "4.0": [
+    "4 chấm 0"
+  ],
+  "4d": [
+    "4 D"
+  ],
+  "4k": [
+    "4 K"
+  ],
+  "5.0": [
+    "5 chấm 0"
+  ],
+  "8x": [
+    "8 X"
+  ],
+  "9x": [
+    "9 X"
+  ],
+  "a.22": [
+    "A 22"
+  ],
+  "a1": [
+    "A 1"
+  ],
+  "a11": [
+    "A 11"
+  ],
+  "a20": [
+    "A 20"
+  ],
+  "a34": [
+    "A 34"
+  ],
+  "a4": [
+    "A 4"
+  ],
+  "a41": [
+    "A 41"
+  ],
+  "a5": [
+    "A 5"
+  ],
+  "a92": [
+    "A 92"
+  ],
+  "a95": [
+    "A 95"
+  ],
+  "anct": [
+    "an ninh chật tự"
+  ],
+  "antt": [
+    "an ninh trật tự"
+  ],
+  "atgt": [
+    "an toàn giao thông"
+  ],
+  "atm": [
+    "A T M"
+  ],
+  "atvstp": [
+    "an toàn vệ sinh thực phẩm"
+  ],
+  "atvsv": [
+    "an toàn vệ sinh viên"
+  ],
+  "b52": [
+    "B 52"
+  ],
+  "bctc": [
+    "báo cáo tài chính"
+  ],
+  "bgdđt": [
+    "Bộ Giáo dục Đào tạo"
+  ],
+  "bgk": [
+    "ban giám khảo"
+  ],
+  "bhl": [
+    "ban huấn luyện"
+  ],
+  "bhtn": [
+    "bảo hiểm thất nghiệp"
+  ],
+  "bhxh": [
+    "bảo hiểm xã hội"
+  ],
+  "bhyt": [
+    "bảo hiểm y tế"
+  ],
+  "bks": [
+    "biển kiểm soát"
+  ],
+  "blhs": [
+    "Bộ luật Hình sự"
+  ],
+  "bnv": [
+    "Bộ Nội vụ"
+  ],
+  "bot": [
+    "B O T",
+    "Bót",
+    "Bốt"
+  ],
+  "bptnmt": [
+    "bệnh phổi tắc nghẽn mạn tính"
+  ],
+  "bql": [
+    "ban quản lý"
+  ],
+  "bqlctdthn": [
+    "Ban quản lý Chỉnh trang đô thị Hà Nội"
+  ],
+  "bs": [
+    "bác sĩ"
+  ],
+  "btv": [
+    "biên tập viên"
+  ],
+  "bvtv": [
+    "bảo vệ thực vật"
+  ],
+  "bvđk": [
+    "Bệnh viện Đa khoa"
+  ],
+  "bxh": [
+    "bảng xếp hạng"
+  ],
+  "bđbp": [
+    "Bộ đội Biên phòng"
+  ],
+  "bđd": [
+    "ban đại diện"
+  ],
+  "bđs": [
+    "bất động sản"
+  ],
+  "cad": [
+    "C A D"
+  ],
+  "ccnv": [
+    "cấp cứu ngoại viện"
+  ],
+  "ccv": [
+    "cấp cứu viên"
+  ],
+  "clb": [
+    "câu lạc bộ"
+  ],
+  "cmhs": [
+    "cha mẹ học sinh"
+  ],
+  "cmnd": [
+    "chứng minh nhân dân"
+  ],
+  "cmnr": [
+    "chuẩn mẹ nó rồi"
+  ],
+  "cn": [
+    "công nhân"
+  ],
+  "cnch": [
+    "cứu nạn cứu hộ"
+  ],
+  "cnhh": [
+    "công nghệ hóa học"
+  ],
+  "cntt": [
+    "công nghệ thông tin"
+  ],
+  "cqđt": [
+    "cơ quan điều tra"
+  ],
+  "cr7": [
+    "C R 7"
+  ],
+  "csdl": [
+    "cơ sở dữ liệu"
+  ],
+  "csgt": [
+    "cảnh sát giao thông"
+  ],
+  "cskv": [
+    "cảnh sát khu vực"
+  ],
+  "csđt": [
+    "cảnh sát điều tra"
+  ],
+  "cty": [
+    "công ty"
+  ],
+  "cđcs": [
+    "công đoàn cơ sở"
+  ],
+  "cđv": [
+    "cổ động viên"
+  ],
+  "da-dn": [
+    "dự án doanh nghiệp"
+  ],
+  "dbđv": [
+    "dự bị động viên"
+  ],
+  "dci": [
+    "D C I"
+  ],
+  "dn": [
+    "doanh nghiệp"
+  ],
+  "dnnn": [
+    "doanh nghiệp Nhà nước"
+  ],
+  "dnnvv": [
+    "doanh nghiệp nhỏ và vừa"
+  ],
+  "dntn": [
+    "doanh nghiệp tư nhân"
+  ],
+  "dqtv": [
+    "dân quân tự vệ"
+  ],
+  "dvd": [
+    "D V D"
+  ],
+  "e5": [
+    "E 5"
+  ],
+  "eu": [
+    "E U"
+  ],
+  "fat16": [
+    "FAT 16"
+  ],
+  "fat32": [
+    "FAT 32"
+  ],
+  "fb": [
+    "facebook"
+  ],
+  "fdi": [
+    "F D I"
+  ],
+  "gato": [
+    "ghen ăn tức ở"
+  ],
+  "gdcn": [
+    "Giám đốc chi nhánh"
+  ],
+  "gdp": [
+    "G D P"
+  ],
+  "gdv": [
+    "giáo dục viên"
+  ],
+  "gdđt": [
+    "Giáo dục Đào tạo"
+  ],
+  "gplx": [
+    "giấy phép lái xe"
+  ],
+  "gprs": [
+    "G P R S"
+  ],
+  "gps": [
+    "G P S"
+  ],
+  "gs": [
+    "Giáo sư"
+  ],
+  "gsts": [
+    "Giáo sư Tiến sĩ"
+  ],
+  "gstskh": [
+    "Giáo sư Tiến sĩ khoa học"
+  ],
+  "gtcc": [
+    "giao thông công cộng"
+  ],
+  "gtgt": [
+    "giá trị gia tăng"
+  ],
+  "gtvt": [
+    "Giao thông Vận tải"
+  ],
+  "h5n1": [
+    "H 5 N 1",
+    "H 5 En N 1"
+  ],
+  "hagl": [
+    "Hoàng Anh Gia Lai"
+  ],
+  "hbo": [
+    "H B O"
+  ],
+  "hcb": [
+    "huy chương bạc"
+  ],
+  "hcm": [
+    "Hồ Chí Minh"
+  ],
+  "hcv": [
+    "huy chương vàng"
+  ],
+  "hcđ": [
+    "huy chương đồng"
+  ],
+  "hdmi": [
+    "H D M I"
+  ],
+  "hdr": [
+    "H D R"
+  ],
+  "hiv": [
+    "H I V"
+  ],
+  "hlv": [
+    "huấn luyện viên"
+  ],
+  "hs": [
+    "học sinh"
+  ],
+  "hsdt": [
+    "hồ sơ dự thầu"
+  ],
+  "hsg": [
+    "học sinh giỏi"
+  ],
+  "hsmt": [
+    "hồ sơ mời thầu"
+  ],
+  "hssv": [
+    "học sinh sinh viên"
+  ],
+  "htx": [
+    "hợp tác xã"
+  ],
+  "hđh": [
+    "hệ điều hành"
+  ],
+  "hđnd": [
+    "Hội đồng nhân dân"
+  ],
+  "hđqt": [
+    "Hội đồng quản trị"
+  ],
+  "hđxx": [
+    "Hội đồng xét xử"
+  ],
+  "ibm": [
+    "I B M"
+  ],
+  "ii": [
+    "2"
+  ],
+  "iii": [
+    "3"
+  ],
+  "iv": [
+    "4"
+  ],
+  "kcn": [
+    "Khu công nghiệp"
+  ],
+  "khcn": [
+    "khoa học công nghệ"
+  ],
+  "khhgđ": [
+    "kế hoạch hóa gia đình"
+  ],
+  "khtc": [
+    "kế hoạch tài chính"
+  ],
+  "kilôgam": [
+    "ki lô gam"
+  ],
+  "kln": [
+    "không lây nhiễm"
+  ],
+  "klq": [
+    "không liên quan"
+  ],
+  "kncn": [
+    "khẩn nguy cứu nạn"
+  ],
+  "ko": [
+    "không"
+  ],
+  "ksnd": [
+    "Kiểm soát nhân dân"
+  ],
+  "kts": [
+    "kiến trúc sư"
+  ],
+  "ktx": [
+    "ký túc xá"
+  ],
+  "kvpt": [
+    "khu vực phòng thủ"
+  ],
+  "llvt": [
+    "lực lượng vũ trang"
+  ],
+  "lnst": [
+    "lợi nhuận sau thuế"
+  ],
+  "lđbđ": [
+    "Liên đoàn bóng đá"
+  ],
+  "m3": [
+    "M 3"
+  ],
+  "mp3": [
+    "M P 3"
+  ],
+  "mp4": [
+    "M P 4"
+  ],
+  "mttq": [
+    "Mặt trận Tổ quốc"
+  ],
+  "mv": [
+    "M V"
+  ],
+  "mxh": [
+    "mạng xã hội"
+  ],
+  "nfc": [
+    "N F C"
+  ],
+  "nhcsxh": [
+    "Ngân hàng Chính sách Xã hội"
+  ],
+  "nhptnt": [
+    "Ngân hàng Phát triển Nông thôn"
+  ],
+  "nkt": [
+    "người khuyết tật"
+  ],
+  "nn-ptnt": [
+    "Nông nghiệp và Phát triển Nông thôn"
+  ],
+  "no.1": [
+    "số 1"
+  ],
+  "no.2": [
+    "số 2"
+  ],
+  "no.3": [
+    "số 3"
+  ],
+  "no.4": [
+    "số 4"
+  ],
+  "npk": [
+    "N P K"
+  ],
+  "npp": [
+    "nhà phân phối"
+  ],
+  "nsnd": [
+    "Nghệ sĩ Nhân dân"
+  ],
+  "nsưt": [
+    "Nghệ sĩ Ưu tú"
+  ],
+  "ntfs": [
+    "N T F S"
+  ],
+  "ntk": [
+    "nhà thiết kế"
+  ],
+  "ntls": [
+    "Nghĩa trang liệt sĩ"
+  ],
+  "nvqs": [
+    "nghĩa vụ quân sự"
+  ],
+  "nxb": [
+    "Nhà xuất bản"
+  ],
+  "oda": [
+    "O D A"
+  ],
+  "pc45": [
+    "P C 4 5"
+  ],
+  "pc64": [
+    "P C 6 4"
+  ],
+  "pc67": [
+    "P C 6 7"
+  ],
+  "pccc": [
+    "phòng cháy chữa cháy"
+  ],
+  "pcgd": [
+    "phổ cập giáo dục"
+  ],
+  "pctn": [
+    "phòng chống tham nhũng"
+  ],
+  "pgs": [
+    "Phó Giáo sư"
+  ],
+  "pgs.ts": [
+    "Phó Giáo sư Tiến sĩ"
+  ],
+  "phhs": [
+    "phụ huynh học sinh"
+  ],
+  "ptnt": [
+    "Phát triển Nông thôn"
+  ],
+  "ptth": [
+    "Phổ thông trung học"
+  ],
+  "pv": [
+    "phóng viên"
+  ],
+  "qhd": [
+    "Q H D"
+  ],
+  "qltt": [
+    "quản lý thị trường"
+  ],
+  "qncn": [
+    "quân nhân chuyên nghiệp"
+  ],
+  "qpan": [
+    "quốc phòng an ninh"
+  ],
+  "s8": [
+    "S 8"
+  ],
+  "s9": [
+    "S 9"
+  ],
+  "slna": [
+    "Sông Lam Nghệ An"
+  ],
+  "sms": [
+    "S M S"
+  ],
+  "sn": [
+    "sinh năm"
+  ],
+  "ssd": [
+    "S S D"
+  ],
+  "sv": [
+    "sinh viên"
+  ],
+  "svhs": [
+    "sinh viên học sinh"
+  ],
+  "tand": [
+    "Tòa án Nhân dân"
+  ],
+  "tdtt": [
+    "thể dục thể thao"
+  ],
+  "tgsx": [
+    "tăng gia sản xuất"
+  ],
+  "tgđ": [
+    "Tổng giám đốc"
+  ],
+  "thcn": [
+    "trung học chuyên nghiệp"
+  ],
+  "thcs": [
+    "Trung học cơ sở"
+  ],
+  "thpt": [
+    "Trung học phổ thông"
+  ],
+  "tngt": [
+    "tai nạn giao thông"
+  ],
+  "tnhh": [
+    "Trách nhiệm hữu hạn"
+  ],
+  "tnxp": [
+    "Thanh niên xung phong"
+  ],
+  "tphcm": [
+    "Thành phố Hồ Chí Minh"
+  ],
+  "ts": [
+    "Tiến sĩ"
+  ],
+  "ttatxh": [
+    "trật tự an toàn xã hội"
+  ],
+  "ttcn": [
+    "thị trường chuyển nhượng"
+  ],
+  "ttgt": [
+    "Thanh tra giao thông"
+  ],
+  "ttks": [
+    "tuần tra kiểm soát"
+  ],
+  "ttvn": [
+    "Thể thao Việt Nam"
+  ],
+  "tyt": [
+    "trạm y tế"
+  ],
+  "u-23": [
+    "U 23"
+  ],
+  "u.23": [
+    "U 23"
+  ],
+  "u15": [
+    "U 15"
+  ],
+  "u16": [
+    "U 16"
+  ],
+  "u17": [
+    "U 17"
+  ],
+  "u18": [
+    "U 18"
+  ],
+  "u19": [
+    "U 19"
+  ],
+  "u20": [
+    "U 20"
+  ],
+  "u21": [
+    "U 21"
+  ],
+  "u22": [
+    "U 22"
+  ],
+  "u23": [
+    "U 23"
+  ],
+  "u40": [
+    "U 40"
+  ],
+  "u50": [
+    "U 50"
+  ],
+  "ubkt": [
+    "Ủy ban Kiểm tra"
+  ],
+  "ubmttq": [
+    "Ủy ban Mặt trận Tổ quốc"
+  ],
+  "ubmttqvn": [
+    "Ủy ban Mặt trận Tổ quốc Việt Nam"
+  ],
+  "ubnd": [
+    "Ủy ban nhân dân"
+  ],
+  "usb": [
+    "U S B"
+  ],
+  "usd": [
+    "U S D"
+  ],
+  "vcd": [
+    "V C D"
+  ],
+  "vck": [
+    "vòng chung kết"
+  ],
+  "vh-nt": [
+    "văn hóa nghệ thuật"
+  ],
+  "vh-tt": [
+    "văn hóa truyền thông"
+  ],
+  "vhnt": [
+    "văn hóa nghệ thuật"
+  ],
+  "vks": [
+    "Viện kiểm soát"
+  ],
+  "vksnd": [
+    "Viện kiểm soát nhân dân"
+  ],
+  "vl": [
+    "vãi Luyện"
+  ],
+  "vn": [
+    "Việt Nam"
+  ],
+  "vnd": [
+    "V N D"
+  ],
+  "vnđ": [
+    "Việt Nam đồng"
+  ],
+  "vov": [
+    "V O V"
+  ],
+  "vqg": [
+    "Vườn quốc gia"
+  ],
+  "vsattp": [
+    "vệ sinh an toàn thực phẩm"
+  ],
+  "vtc": [
+    "V T C"
+  ],
+  "vtv": [
+    "V T V"
+  ],
+  "vtv1": [
+    "V T V 1"
+  ],
+  "vtv3": [
+    "V T V 3"
+  ],
+  "vtv4": [
+    "V T V 4"
+  ],
+  "vtv6": [
+    "V T V 6"
+  ],
+  "vtv9": [
+    "V T V 9"
+  ],
+  "vđqg": [
+    "vô địch quốc gia"
+  ],
+  "vđv": [
+    "vận động viên"
+  ],
+  "wifi": [
+    "wi fi"
+  ],
+  "wi-fi": [
+    "wi fi"
+  ],
+  "xa1": [
+    "X A 1"
+  ],
+  "xa2": [
+    "X A 2"
+  ],
+  "xhcn": [
+    "Xã hội Chủ nghĩa"
+  ],
+  "xhh": [
+    "xã hội học"
+  ],
+  "xi": [
+    "11"
+  ],
+  "xii": [
+    "12"
+  ],
+  "xiii": [
+    "13"
+  ],
+  "ximăng": [
+    "xi măng"
+  ],
+  "xix": [
+    "19"
+  ],
+  "xklđ": [
+    "xuất khẩu lao động"
+  ],
+  "xvi": [
+    "16"
+  ],
+  "xvii": [
+    "17"
+  ],
+  "xviii": [
+    "18"
+  ],
+  "xx": [
+    "20"
+  ],
+  "đbqh": [
+    "đại biểu Quốc hội"
+  ],
+  "đhbk": [
+    "Đại học Bách khoa"
+  ],
+  "đhbkhcm": [
+    "Đại học Bách khoa Hồ Chí Minh"
+  ],
+  "đhbkhn": [
+    "Đại học Bách khoa Hà Nội"
+  ],
+  "đhbktphcm": [
+    "Đại học Bách khoa Thành phố Hồ Chí Minh"
+  ],
+  "đhkt": [
+    "Đại học Kinh tế"
+  ],
+  "đhsp": [
+    "Đại học Sư phạm"
+  ],
+  "đkvđ": [
+    "đương kim vô địch"
+  ],
+  "đtqg": [
+    "đội tuyển Quốc gia"
+  ],
+  "đtqm": [
+    "đấu thầu qua mạng"
+  ],
+  "đtđ": [
+    "đái tháo đường"
+  ],
+  "ceo": [
+    "C E O"
+  ],
+  "cnvc-lđ": [
+    "công nhân viên chức lao động"
+  ],
+  "cnvclđ": [
+    "công nhân viên chức lao động"
+  ],
+  "ubkttw": [
+    "Ủy ban Kiểm tra Trung ương"
+  ],
+  "gd-đt": [
+    "Giáo dục Đào tạo"
+  ],
+  "gd&đt": [
+    "Giáo dục và Đào tạo"
+  ],
+  "gdđd": [
+    "giáo dục đạo đức"
+  ],
+  "ndđt": [
+    "Nhân Dân điện tử"
+  ],
+  "gđcn": [
+    "Giám đốc chi nhánh"
+  ],
+  "gđpgd": [
+    "Giám đốc phòng giao dịch"
+  ],
+  "lđlđ": [
+    "Liên đoàn Lao động"
+  ],
+  "lđtb": [
+    "Lao động Thương binh"
+  ],
+  "qlgdđđ": [
+    "quản lý giáo dục đạo đức"
+  ],
+  "t.ư": [
+    "Trung ương"
+  ],
+  "vhttdl": [
+    "Văn hóa Thể thao Du lịch"
+  ],
+  "nnptnt": [
+    "Nông nghiệp Phát triển nông thôn"
+  ],
+  "cbvclđ": [
+    "cán bộ viên chức lao động"
+  ],
+  "cnqsdđ": [
+    "chứng nhận quyền sử dụng đất"
+  ],
+  "gcnqsdđ": [
+    "Giấy chứng nhận quyền sử dụng đất"
+  ],
+  "ctđ": [
+    "công tác Đảng"
+  ],
+  "nhnn": [
+    "Ngân hàng Nhà nước"
+  ],
+  "tandtc": [
+    "Tòa án nhân dân tối cao"
+  ],
+  "mttqvn": [
+    "Mặt trận Tổ quốc Việt Nam"
+  ],
+  "cđt/bmt": [
+    "chủ đầu tư bên mời thầu"
+  ],
+  "ttxvn": [
+    "Thông tấn xã Việt Nam"
+  ],
+  "vtm": [
+    "V T M"
+  ],
+  "thvn": [
+    "Truyền hình Việt Nam"
+  ],
+  "gdđđ": [
+    "giáo dục đạo đức"
+  ],
+  "pgs.ts.ttnd": [
+    "Phó Giáo sư Tiến sĩ Thầy thuốc nhân dân"
+  ],
+  "qđnd": [
+    "Quân đội nhân dân"
+  ],
+  "tp.hcm": [
+    "Thành phố Hồ Chí Minh"
+  ],
+  "bkhđt": [
+    "Bộ Kế hoạch Đầu tư"
+  ],
+  "kh-đt": [
+    "Kế hoạch Đầu tư"
+  ],
+  "vff": [
+    "V F F"
+  ],
+  "mc": [
+    "M C"
+  ],
+  "nlđ": [
+    "N L Đ"
+  ],
+  "nvơnn": [
+    "người Việt ở nước ngoài"
+  ],
+  "nvonn": [
+    "người Việt ở nước ngoài"
+  ],
+  "pvn": [
+    "P V N"
+  ],
+  "nhtm": [
+    "Ngân hàng thương mại"
+  ],
+  "lđtbxh": [
+    "Lao động Thương binh Xã hội"
+  ],
+  "lđ-tb-xh": [
+    "Lao động Thương binh Xã hội"
+  ],
+  "ii/2017": [
+    "2 năm 2017"
+  ],
+  "iii/2017": [
+    "3 năm 2017"
+  ],
+  "iv/2016": [
+    "4 năm 2016"
+  ],
+  "iv/2017": [
+    "4 năm 2017"
+  ],
+  "sscđ": [
+    "sẵn sàng chiến đấu"
+  ],
+  "svđ": [
+    "sân vận động"
+  ],
+  "gđvn": [
+    "Gia đình Việt Nam"
+  ],
+  "nsnn": [
+    "ngân sách Nhà nước"
+  ],
+  "gdvn": [
+    "Giáo dục Việt Nam"
+  ],
+  "adn": [
+    "A D N"
+  ],
+  "tưlđtt": [
+    "thỏa ước lao động tập thể"
+  ],
+  "pgs-ts": [
+    "Phó Giáo sư Tiến sĩ"
+  ],
+  "fbi": [
+    "F B I"
+  ],
+  "edm": [
+    "E D M"
+  ],
+  "ublđ": [
+    "Ủy ban Lao động"
+  ],
+  "gs.ts.ngnd": [
+    "Giáo sư Tiến sĩ Nhà giáo Nhân dân"
+  ],
+  "tcty": [
+    "Tổng công ty"
+  ],
+  "ncpt": [
+    "Nghiên cứu phát triển"
+  ],
+  "đs-đb": [
+    "đường sắt đường bộ"
+  ],
+  "đbscl": [
+    "đồng bằng sông Cửu Long"
+  ],
+  "đhđcđ": [
+    "Đại hội đồng cổ đông"
+  ],
+  "đsvn": [
+    "Đường sắt Việt Nam"
+  ],
+  "đtdđ": [
+    "điện thoại di động"
+  ],
+  "đtvn": [
+    "đội tuyển Việt Nam"
+  ],
+  "đđv": [
+    "đồng đẳng viên"
+  ],
+  "khxh": [
+    "Khoa học xã hội"
+  ],
+  "vksndtc": [
+    "Viện kiểm sát nhân dân tối cao"
+  ],
+  "kg": [
+    "ki lô gam",
+    "ki lô gờ gam"
+  ],
+  "kilômet": [
+    "ki lô mét"
+  ],
+  "matxa": [
+    "mát xa"
+  ],
+  "bêtông": [
+    "bê tông"
+  ],
+  "tivi": [
+    "ti vi"
+  ],
+  "đdv": [
+    "điều dưỡng viên"
+  ],
+  "cát-xê": [
+    "cát xê"
+  ],
+  "blđ": [
+    "ban lãnh đạo"
+  ],
+  "a320": [
+    "A 3 2 0",
+    "A 320"
+  ],
+  "a321": [
+    "A 3 2 1",
+    "A 321"
+  ],
+  "a900": [
+    "A 9 0 0",
+    "A 900"
+  ],
+  "attp": [
+    "an toàn thực phẩm"
+  ],
+  "aids": [
+    "Ết"
+  ],
+  "aimag": [
+    "Đại hội Thể thao Trong nhà và Võ thuật châu Á"
+  ],
+  "aimag5": [
+    "Đại hội Thể thao Trong nhà và Võ thuật châu Á 5"
+  ],
+  "amoled": [
+    "Amoled"
+  ],
+  "apec": [
+    "Apec"
+  ],
+  "asiad": [
+    "Asiad"
+  ],
+  "b.40": [
+    "B 40"
+  ],
+  "b.52": [
+    "B 52"
+  ],
+  "b12": [
+    "B 12"
+  ],
+  "b40": [
+    "B 40"
+  ],
+  "bios": [
+    "Bios"
+  ],
+  "btc": [
+    "ban tổ chức"
+  ],
+  "btc-usd": [
+    "B T C U S D"
+  ],
+  "baodatviet.vn": [
+    "báo Đất Việt chấm V N"
+  ],
+  "Bboom": [
+    "Bboom"
+  ],
+  "Bitcoin": [
+    "Bitcoin"
+  ],
+  "Blockchain": [
+    "Blockchain"
+  ],
+  "cbcnv": [
+    "cán bộ công nhân viên"
+  ],
+  "cbql": [
+    "cán bộ quản lý"
+  ],
+  "cmcn": [
+    "cách mạng công nghiệp"
+  ],
+  "cnet": [
+    "C Nét"
+  ],
+  "co2": [
+    "C O 2"
+  ],
+  "cod": [
+    "C O D"
+  ],
+  "mck": [
+    "mã chứng khoán"
+  ],
+  "ctcp": [
+    "công ty cổ phần"
+  ],
+  "ctv": [
+    "cộng tác viên"
+  ],
+  "ndt": [
+    "Nhân dân tệ"
+  ],
+  "chinhphu.vn": [
+    "chính phủ chấm V N"
+  ],
+  "lđlđvn": [
+    "Liên đoàn Lao động Việt Nam"
+  ],
+  "km": [
+    "ki lô mét"
+  ],
+  "cm": [
+    "xen ti mét"
+  ],
+  "nm": [
+    "na nô mét"
+  ],
+  "mm": [
+    "mi ni mét"
+  ],
+  "gr": [
+    "gờ ram",
+    "gam"
+  ],
+  "mg": [
+    "mi ni gam"
+  ],
+  "ha": [
+    "héc ta",
+    "hét ta"
+  ],
+  "mp": [
+    "mê ga pixel"
+  ],
+  "ft": [
+    "phít"
+  ],
+  "inch": [
+    "inh"
+  ],
+  "m/s": [
+    "mét trên giây"
+  ],
+  "e240": [
+    "E 240",
+    "E 2 40"
+  ],
+  "euro": [
+    "Euro"
+  ],
+  "emdep.vn": [
+    "em đẹp chấm V N"
+  ],
+  "gs.ts": [
+    "Giáo sư Tiến sĩ"
+  ],
+  "gs.tskh": [
+    "Giáo sư Tiến sĩ khoa học"
+  ],
+  "gv": [
+    "giáo viên"
+  ],
+  "gala": [
+    "ga la"
+  ],
+  "hktt": [
+    "hộ khẩu thường trú"
+  ],
+  "hs-sv": [
+    "học sinh sinh viên"
+  ],
+  "hđtv": [
+    "Hội đồng thành viên"
+  ],
+  "ip67": [
+    "I P 67"
+  ],
+  "ip68": [
+    "I P 68"
+  ],
+  "kh-cn": [
+    "khoa học công nghệ"
+  ],
+  "kt-xh": [
+    "kinh tế xã hội"
+  ],
+  "led": [
+    "Led"
+  ],
+  "6/45": [
+    "6 trên 45"
+  ],
+  "6/55": [
+    "6 trên 55"
+  ],
+  "mútcơtông": [
+    "mút cơ tông"
+  ],
+  "ndt/con": [
+    "Nhân dân tệ trên con"
+  ],
+  "nlsh": [
+    "nhiên liệu sinh học"
+  ],
+  "ts.bs": [
+    "Tiến sĩ Bác sĩ"
+  ],
+  "ttgsnh": [
+    "thanh tra giám sát ngân hàng"
+  ],
+  "ttxh": [
+    "trật tự xã hội"
+  ],
+  "u-40": [
+    "U 40"
+  ],
+  "u30": [
+    "U 30"
+  ],
+  "xdntm": [
+    "xây dựng nông thôn mới"
+  ],
+  "đôla": [
+    "đô la"
+  ],
+  "hat-trick": [
+    "hat trick"
+  ],
+  "ttub": [
+    "Trung tâm Ung bướu"
+  ],
+  "kơtu": [
+    "Cơ Tu"
+  ],
+  "tp": [
+    "Thành phố"
+  ],
+  "cali" : ["Ca Li"],
+  "chdcnd" : ["Cộng hòa Dân chủ Nhân dân"],
+  "q.1" : ["Quận 1", "Quận Nhất"],
+  "q.2" : ["Quận 2"],
+  "q.3" : ["Quận 3"],
+  "q.4" : ["Quận 4"],
+  "q.5" : ["Quận 5"],
+  "q.6" : ["Quận 6"],
+  "q.7" : ["Quận 7"],
+  "q.8" : ["Quận 8"],
+  "q.9" : ["Quận 9"],
+  "q.10" : ["Quận 10"],
+  "q.11" : ["Quận 11"],
+  "q.12" : ["Quận 12"],
+
+  "q1" : ["Quận 1", "Quận Nhất"],
+  "q2" : ["Quận 2"],
+  "q3" : ["Quận 3"],
+  "q4" : ["Quận 4"],
+  "q5" : ["Quận 5"],
+  "q6" : ["Quận 6"],
+  "q7" : ["Quận 7"],
+  "q8" : ["Quận 8"],
+  "q9" : ["Quận 9"],
+  "q10" : ["Quận 10"],
+  "q11" : ["Quận 11"],
+  "q12" : ["Quận 12"],
+
+  "q-1" : ["Quận 1", "Quận Nhất"],
+  "q-2" : ["Quận 2"],
+  "q-3" : ["Quận 3"],
+  "q-4" : ["Quận 4"],
+  "q-5" : ["Quận 5"],
+  "q-6" : ["Quận 6"],
+  "q-7" : ["Quận 7"],
+  "q-8" : ["Quận 8"],
+  "q-9" : ["Quận 9"],
+  "q-10" : ["Quận 10"],
+  "q-11" : ["Quận 11"],
+  "q-12" : ["Quận 12"]
+
+
+}

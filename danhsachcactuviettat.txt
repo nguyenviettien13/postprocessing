@@ -1,0 +1,19 @@
+vê vê tê vê          :   VVTV
+vê tê vê             :   VTV
+ép pi ti             :   FPT
+sam sung             :   Samsung
+trung học cơ sở      :   THCS
+trung học phổ thông  :   THPT
+đại học              :   ĐH
+xi ao mi             :   Xiaomi
+ghi ga bai           :   GB
+gi ga bai            :   GB
+vi na phôn           :   Vinaphone
+đô ta                :   Dota
+đô ta hai            :   Dota2
+mô bi phôn           :   Mobiphone
+ai phôn mười         :   IphoneX
+ai phôn              :   Iphone
+ai pát               :   Ipad
+việt theo            :   Viettel
+việt ten             :   Viettel
